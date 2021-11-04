@@ -1,0 +1,16 @@
+UseLastSeenDate=False
+HasContextSatellite=True
+VirtualEndDate=False
+DeployedInProduction=False
+BusinessKeys:a6461d02-0a5c-410a-a249-731eb583038b:Id=a6461d02-0a5c-410a-a249-731eb583038b
+BusinessKeys:a6461d02-0a5c-410a-a249-731eb583038b:HubId=afd5ac87-5b3a-465c-8007-905b84fb31be
+BusinessKeys:a6461d02-0a5c-410a-a249-731eb583038b:Name=aa
+BusinessKeys:a6461d02-0a5c-410a-a249-731eb583038b:Type=AnsiString
+BusinessKeys:a6461d02-0a5c-410a-a249-731eb583038b:Ord=1
+BusinessKeys:a6461d02-0a5c-410a-a249-731eb583038b:Length=1
+BusinessKeys:a6461d02-0a5c-410a-a249-731eb583038b:Precision=
+BusinessKeys:a6461d02-0a5c-410a-a249-731eb583038b:Scale=
+TechnicalDescription=
+BusinessDescription=
+Id=afd5ac87-5b3a-465c-8007-905b84fb31be
+Name=tmp
