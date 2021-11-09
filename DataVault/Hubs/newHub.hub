@@ -1,0 +1,16 @@
+UseLastSeenDate=False
+HasContextSatellite=False
+VirtualEndDate=False
+DeployedInProduction=False
+BusinessKeys:bab1ad51-7a87-43f1-a625-7d1eb8ff6f9e:Id=bab1ad51-7a87-43f1-a625-7d1eb8ff6f9e
+BusinessKeys:bab1ad51-7a87-43f1-a625-7d1eb8ff6f9e:HubId=e4e1d0a3-0e67-4e0f-8e4d-cc64d9096d13
+BusinessKeys:bab1ad51-7a87-43f1-a625-7d1eb8ff6f9e:Name=bk
+BusinessKeys:bab1ad51-7a87-43f1-a625-7d1eb8ff6f9e:Type=String
+BusinessKeys:bab1ad51-7a87-43f1-a625-7d1eb8ff6f9e:Ord=1
+BusinessKeys:bab1ad51-7a87-43f1-a625-7d1eb8ff6f9e:Length=
+BusinessKeys:bab1ad51-7a87-43f1-a625-7d1eb8ff6f9e:Precision=
+BusinessKeys:bab1ad51-7a87-43f1-a625-7d1eb8ff6f9e:Scale=
+TechnicalDescription=
+BusinessDescription=
+Id=e4e1d0a3-0e67-4e0f-8e4d-cc64d9096d13
+Name=newHub
