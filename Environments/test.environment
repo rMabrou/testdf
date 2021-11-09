@@ -1,0 +1,14 @@
+NamingConvention=dfakto
+HashKeyHashingFunction=MD5
+HashDiffHashingFunction=MD5
+Separator=;;
+StoreHashAsBytes=False
+UseIntegrityConstraint=True
+DatabaseServerId=development
+DatabaseName=default_test
+VersionControlReference=
+IsProduction=False
+VersionDeployed=
+UseForModeling=False
+Id=d8fc4b05-1f05-4e81-bba5-13cc8c66c8d0
+Name=test
