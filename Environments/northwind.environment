@@ -9,6 +9,6 @@ DatabaseName=northwind
 VersionControlReference=
 IsProduction=False
 VersionDeployed=
-UseForModeling=False
+UseForModeling=True
 Id=a5dcef0b-a6aa-4107-b44a-04b3621e30f3
 Name=northwind
