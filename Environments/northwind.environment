@@ -1,0 +1,14 @@
+NamingConvention=dfakto
+HashKeyHashingFunction=MD5
+HashDiffHashingFunction=MD5
+Separator=;;
+StoreHashAsBytes=False
+UseIntegrityConstraint=True
+DatabaseServerId=development
+DatabaseName=northwind
+VersionControlReference=
+IsProduction=False
+VersionDeployed=
+UseForModeling=False
+Id=a5dcef0b-a6aa-4107-b44a-04b3621e30f3
+Name=northwind
