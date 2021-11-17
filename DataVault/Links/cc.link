@@ -1,0 +1,17 @@
+HasContextSatellite=False
+VirtualEndDate=False
+DeployedInProduction=False
+HubReferences:08f17564-e529-4348-8619-9193d85c6a77:Id=08f17564-e529-4348-8619-9193d85c6a77
+HubReferences:08f17564-e529-4348-8619-9193d85c6a77:LinkId=b5f71443-31ae-40c1-b8e3-987474ec94f7
+HubReferences:08f17564-e529-4348-8619-9193d85c6a77:HubId=e4e1d0a3-0e67-4e0f-8e4d-cc64d9096d13
+HubReferences:08f17564-e529-4348-8619-9193d85c6a77:ColumnName=cc
+HubReferences:08f17564-e529-4348-8619-9193d85c6a77:ColumnOrder=1
+HubReferences:5367bf78-9830-41ec-bbeb-32a531d6a473:Id=5367bf78-9830-41ec-bbeb-32a531d6a473
+HubReferences:5367bf78-9830-41ec-bbeb-32a531d6a473:LinkId=b5f71443-31ae-40c1-b8e3-987474ec94f7
+HubReferences:5367bf78-9830-41ec-bbeb-32a531d6a473:HubId=e4e1d0a3-0e67-4e0f-8e4d-cc64d9096d13
+HubReferences:5367bf78-9830-41ec-bbeb-32a531d6a473:ColumnName=ccc
+HubReferences:5367bf78-9830-41ec-bbeb-32a531d6a473:ColumnOrder=2
+TechnicalDescription=
+BusinessDescription=
+Id=b5f71443-31ae-40c1-b8e3-987474ec94f7
+Name=cc
