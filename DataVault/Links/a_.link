@@ -1,0 +1,17 @@
+HasContextSatellite=False
+VirtualEndDate=False
+DeployedInProduction=False
+HubReferences:f7114fe9-9120-44fa-9580-40c54555f015:Id=f7114fe9-9120-44fa-9580-40c54555f015
+HubReferences:f7114fe9-9120-44fa-9580-40c54555f015:LinkId=89057ee4-1f8a-488b-b0eb-ce9b6df05b1e
+HubReferences:f7114fe9-9120-44fa-9580-40c54555f015:HubId=e4e1d0a3-0e67-4e0f-8e4d-cc64d9096d13
+HubReferences:f7114fe9-9120-44fa-9580-40c54555f015:ColumnName=aa
+HubReferences:f7114fe9-9120-44fa-9580-40c54555f015:ColumnOrder=1
+HubReferences:48056c97-40c7-482d-9fff-c1b8655c2706:Id=48056c97-40c7-482d-9fff-c1b8655c2706
+HubReferences:48056c97-40c7-482d-9fff-c1b8655c2706:LinkId=89057ee4-1f8a-488b-b0eb-ce9b6df05b1e
+HubReferences:48056c97-40c7-482d-9fff-c1b8655c2706:HubId=e4e1d0a3-0e67-4e0f-8e4d-cc64d9096d13
+HubReferences:48056c97-40c7-482d-9fff-c1b8655c2706:ColumnName=ee
+HubReferences:48056c97-40c7-482d-9fff-c1b8655c2706:ColumnOrder=2
+TechnicalDescription=
+BusinessDescription=
+Id=89057ee4-1f8a-488b-b0eb-ce9b6df05b1e
+Name=a_
