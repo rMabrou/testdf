@@ -1,0 +1,13 @@
+Id=2ef3d668-336b-471e-ab8e-84579e1cf567
+HubId=e4e1d0a3-0e67-4e0f-8e4d-cc64d9096d13
+LinkId=
+SatelliteId=
+IsFullLoad=False
+DataPackageTableId=1a963d8a-068a-460a-a385-305a0d3f4d06
+Name=zzz
+ReferenceMappingId=
+HubMappingDetails:64500f9c-d240-4204-946a-5727cb5152ec:DataPackageColumnId=ca53abc8-f250-4f24-a192-ecb73f094053
+HubMappingDetails:64500f9c-d240-4204-946a-5727cb5152ec:BusinessKeyId=bab1ad51-7a87-43f1-a625-7d1eb8ff6f9e
+HubMappingDetails:64500f9c-d240-4204-946a-5727cb5152ec:Ordr=1
+HubMappingDetails:64500f9c-d240-4204-946a-5727cb5152ec:Id=64500f9c-d240-4204-946a-5727cb5152ec
+HubMappingDetails:64500f9c-d240-4204-946a-5727cb5152ec:MappingId=2ef3d668-336b-471e-ab8e-84579e1cf567
