@@ -1,0 +1,12 @@
+Id=a3255d41-6e5e-435c-b9d9-e5c2a0c0d502
+HubId=
+LinkId=
+SatelliteId=a2848fbd-936c-4096-9131-65e98e0e59a6
+IsFullLoad=False
+DataPackageTableId=1a963d8a-068a-460a-a385-305a0d3f4d06
+Name=rtyrty
+ReferenceMappingId=e507c50c-4073-4c09-84e1-560fc88cd79a
+SatelliteMappingDetails:ed768d8d-7f5e-4481-8efd-890523d228c3:DataPackageColumnId=036d11df-27ab-45d4-b94d-7df633b03335
+SatelliteMappingDetails:ed768d8d-7f5e-4481-8efd-890523d228c3:SatelliteColumnId=11b38c3e-d26f-437c-87cb-3775226506d5
+SatelliteMappingDetails:ed768d8d-7f5e-4481-8efd-890523d228c3:Id=ed768d8d-7f5e-4481-8efd-890523d228c3
+SatelliteMappingDetails:ed768d8d-7f5e-4481-8efd-890523d228c3:MappingId=a3255d41-6e5e-435c-b9d9-e5c2a0c0d502
