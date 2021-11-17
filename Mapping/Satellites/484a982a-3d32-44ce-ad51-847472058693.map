@@ -1,0 +1,12 @@
+Id=484a982a-3d32-44ce-ad51-847472058693
+HubId=
+LinkId=
+SatelliteId=9bccf050-0409-47c4-bc85-31061a678d54
+IsFullLoad=False
+DataPackageTableId=1a963d8a-068a-460a-a385-305a0d3f4d06
+Name=z
+ReferenceMappingId=e507c50c-4073-4c09-84e1-560fc88cd79a
+SatelliteMappingDetails:b199b123-4399-4ecb-a0bf-e5e6160acad2:DataPackageColumnId=dbe5fcc2-d599-4794-b7b2-952580140c6b
+SatelliteMappingDetails:b199b123-4399-4ecb-a0bf-e5e6160acad2:SatelliteColumnId=f26d2861-6d2a-43ac-acb9-494cd5087001
+SatelliteMappingDetails:b199b123-4399-4ecb-a0bf-e5e6160acad2:Id=b199b123-4399-4ecb-a0bf-e5e6160acad2
+SatelliteMappingDetails:b199b123-4399-4ecb-a0bf-e5e6160acad2:MappingId=484a982a-3d32-44ce-ad51-847472058693
