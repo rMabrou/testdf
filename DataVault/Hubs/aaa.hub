@@ -1,0 +1,15 @@
+HasContextSatellite=False
+VirtualEndDate=False
+DeployedInProduction=False
+BusinessKeys:ce5ca516-75f8-4944-86e5-17d94f09b22e:Id=ce5ca516-75f8-4944-86e5-17d94f09b22e
+BusinessKeys:ce5ca516-75f8-4944-86e5-17d94f09b22e:HubId=c9427998-f4dc-4ddb-8b2b-698ee02e12a4
+BusinessKeys:ce5ca516-75f8-4944-86e5-17d94f09b22e:Name=bk
+BusinessKeys:ce5ca516-75f8-4944-86e5-17d94f09b22e:Type=String
+BusinessKeys:ce5ca516-75f8-4944-86e5-17d94f09b22e:Ord=1
+BusinessKeys:ce5ca516-75f8-4944-86e5-17d94f09b22e:Length=12
+BusinessKeys:ce5ca516-75f8-4944-86e5-17d94f09b22e:Precision=
+BusinessKeys:ce5ca516-75f8-4944-86e5-17d94f09b22e:Scale=
+TechnicalDescription=
+BusinessDescription=
+Id=c9427998-f4dc-4ddb-8b2b-698ee02e12a4
+Name=aaa
