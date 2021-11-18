@@ -1,0 +1,15 @@
+HasContextSatellite=False
+VirtualEndDate=False
+DeployedInProduction=False
+BusinessKeys:9058c7bd-fc26-4d0f-a6f3-c810a474becf:Id=9058c7bd-fc26-4d0f-a6f3-c810a474becf
+BusinessKeys:9058c7bd-fc26-4d0f-a6f3-c810a474becf:HubId=3d14b803-0a7b-4077-890a-5bef8f1bed4b
+BusinessKeys:9058c7bd-fc26-4d0f-a6f3-c810a474becf:Name=bk
+BusinessKeys:9058c7bd-fc26-4d0f-a6f3-c810a474becf:Type=String
+BusinessKeys:9058c7bd-fc26-4d0f-a6f3-c810a474becf:Ord=1
+BusinessKeys:9058c7bd-fc26-4d0f-a6f3-c810a474becf:Length=57
+BusinessKeys:9058c7bd-fc26-4d0f-a6f3-c810a474becf:Precision=
+BusinessKeys:9058c7bd-fc26-4d0f-a6f3-c810a474becf:Scale=
+TechnicalDescription=
+BusinessDescription=
+Id=3d14b803-0a7b-4077-890a-5bef8f1bed4b
+Name=fdsdf
