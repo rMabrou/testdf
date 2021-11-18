@@ -1,0 +1,13 @@
+Id=45d43612-82bb-467f-af07-48881432770b
+HubId=e4e1d0a3-0e67-4e0f-8e4d-cc64d9096d13
+LinkId=
+SatelliteId=
+IsFullLoad=False
+DataPackageTableId=117ae7a4-9674-42e4-8eae-f075b4eb8042
+Name=aaa
+ReferenceMappingId=
+HubMappingDetails:fa8b50ec-a04e-45c4-9891-aa57c22ffb51:DataPackageColumnId=16cb4481-1e5d-4e46-beb7-fec361a5f4a5
+HubMappingDetails:fa8b50ec-a04e-45c4-9891-aa57c22ffb51:BusinessKeyId=bab1ad51-7a87-43f1-a625-7d1eb8ff6f9e
+HubMappingDetails:fa8b50ec-a04e-45c4-9891-aa57c22ffb51:Ordr=1
+HubMappingDetails:fa8b50ec-a04e-45c4-9891-aa57c22ffb51:Id=fa8b50ec-a04e-45c4-9891-aa57c22ffb51
+HubMappingDetails:fa8b50ec-a04e-45c4-9891-aa57c22ffb51:MappingId=45d43612-82bb-467f-af07-48881432770b
