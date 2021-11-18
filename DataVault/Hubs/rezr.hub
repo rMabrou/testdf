@@ -1,0 +1,15 @@
+HasContextSatellite=False
+VirtualEndDate=False
+DeployedInProduction=False
+BusinessKeys:d6ebfe7c-34e7-4653-a434-2306768e13b1:Id=d6ebfe7c-34e7-4653-a434-2306768e13b1
+BusinessKeys:d6ebfe7c-34e7-4653-a434-2306768e13b1:HubId=6d580a7b-6887-4f32-9bb0-7a6efaef2d9f
+BusinessKeys:d6ebfe7c-34e7-4653-a434-2306768e13b1:Name=bk
+BusinessKeys:d6ebfe7c-34e7-4653-a434-2306768e13b1:Type=String
+BusinessKeys:d6ebfe7c-34e7-4653-a434-2306768e13b1:Ord=1
+BusinessKeys:d6ebfe7c-34e7-4653-a434-2306768e13b1:Length=55
+BusinessKeys:d6ebfe7c-34e7-4653-a434-2306768e13b1:Precision=
+BusinessKeys:d6ebfe7c-34e7-4653-a434-2306768e13b1:Scale=
+TechnicalDescription=
+BusinessDescription=
+Id=6d580a7b-6887-4f32-9bb0-7a6efaef2d9f
+Name=rezr
